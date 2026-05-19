@@ -149,4 +149,4 @@ jobs:
           run: |
             cd $GITHUB_WORKSPACE
             wget -o stock_recovery.img
-    "https://drive.google.com/c?export=download&id=19EjsRjMRLTOAUq54lkLMoBQFRTP14xkV"
+    "https://drive.google.com/uc?export=download&id=19EjsRjMRLTOAUq54lkLMoBQFRTP14xkV"
