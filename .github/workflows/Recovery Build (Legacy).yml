@@ -145,7 +145,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Download Stock Recovery
-    File via Pipeline
+  File via Pipeline
           run: |
             cd $GITHUB_WORKSPACE
             wget -o stock_recovery.img
